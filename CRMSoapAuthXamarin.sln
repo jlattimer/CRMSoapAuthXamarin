@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMSoapAuthXamarin", "CRMSoapAuthXamarin\CRMSoapAuthXamarin.csproj", "{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Release|iPhone.Build.0 = Release|iPhone
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{95D22A55-46C1-49DA-ADC8-8C54FD860B7C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
