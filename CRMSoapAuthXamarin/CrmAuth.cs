@@ -154,6 +154,12 @@ namespace CRMSoapAuthXamarin
                 return "crmemea:dynamics.com";
             if (url.ToUpper().Contains("CRM5.DYNAMICS.COM"))
                 return "crmapac:dynamics.com";
+            if (url.ToUpper().Contains("CRM6.DYNAMICS.COM"))
+                return "crmoce:dynamics.com";
+            if (url.ToUpper().Contains("CRM7.DYNAMICS.COM"))
+                return "crmjpn:dynamics.com";
+            if (url.ToUpper().Contains("CRM9.DYNAMICS.COM"))
+                return "crmgcc:dynamics.com";
 
             return "crmna:dynamics.com";
         }
